@@ -12,3 +12,6 @@ Prebuilt setup for dev purpose JS + TS + Webpack + Babel Loader + Prettier
 $ npm install
 $ npm run start:dev
 ```
+
+then go to `localhost:9000`
+Start hacking !
